@@ -3,8 +3,8 @@
 
 **Information gathering:**
 
-###### Content Discovery
-   - [ ] ASN
+##### Content Discovery
+  - [ ] ASN
      - IP Block/Subnet
        - [ ] [bgp.he.net](https://bgp.he.net/country)
        - [ ] [whois.arin.net](https://whois.arin.net/ui/)
@@ -15,3 +15,10 @@
        
      - Acquisition
        - [ ] [crunchbase.com](https://www.crunchbase.com/search/acquisition)
+       - [ ] [facebook.com@2020]( / "Trendmark google")
+       - [ ] [github.com@2020]( / "Trendmark google")
+       - [ ] [viewdns.info](https://viewdns.info/reversewhois/ " First do whois, take the register email then perform reverse whois ")
+       - [ ] [whoisxmlapi.com](https://tools.whoisxmlapi.com/reverse-whois-search " First do whois, take the register email then perform reverse whois " )
+       
+  - [ ]        
+       
