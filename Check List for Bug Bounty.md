@@ -3,7 +3,7 @@
 
 **Information gathering:**
 
-##### Content Discovery
+_Content Discovery_
   - [ ] ASN
      - IP Block/Subnet
        - [ ] [bgp.he.net](https://bgp.he.net/country)
@@ -36,5 +36,24 @@
        - [ ] [bgpview.io](https://bgpview.io/search/google "Dedicated IP range, ASNs, IPv4") 
        - [ ] [reversewhois.domaintools.com](https://reversewhois.domaintools.com/)
        
+_Certificate transparency_ 
+  
+  - [ ] [crt.sh](https://crt.sh/)
+  - [ ] [developers.facebook.com](https://developers.facebook.com/tools/ct/search/)
+  - [ ] [transparencyreport.google.com](https://transparencyreport.google.com/)
+  
+_JS Enumeration_  
+   - [ ] [JSparser](https://github.com/nahamsec/JSParser)
+   - [ ] [LinkFinder](https://github.com/GerbenJavado/LinkFinder)
+   - [ ] [relative-url-extractor](https://github.com/jobertabma/relative-url-extractor)
+   - [ ] [JS-Scan](https://github.com/zseano/JS-Scan)
+   - [ ] [getJS](https://github.com/003random/getJS) 
+   - [ ] [InputScanner](https://github.com/zseano/InputScanner)
+ 
+_DNS Enumeration_ 
+   - [ ] [syborg](https://github.com/MilindPurswani/Syborg)
+   - [ ] [dnsrecon](https://github.com/darkoperator/dnsrecon)
+   - [ ] [dnsgen](https://github.com/ProjectAnte/dnsgen "Automate dnsgen+masscan")
+   
        
        
