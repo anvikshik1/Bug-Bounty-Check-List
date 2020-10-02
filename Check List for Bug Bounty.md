@@ -129,7 +129,33 @@ _Github recon_
      
    
 _Web vulnerability scanner tools_   
-   - [ ] []()
+ **SSRF**
+   - [ ] [nip.io](https://nip.io/)
+   - [ ] [burp Collaborator ](https://gist.github.com/Isopach/00515b5f7ef7be230ff76c6092df0137)
+   - [ ] [SSRFmap](https://github.com/swisskyrepo/SSRFmap)
    
-       
-       
+ **CORS**  
+   - [ ] [CORScanner](https://github.com/chenjj/CORScanner)
+   - [ ] [Corsy](https://github.com/s0md3v/Corsy)
+   - [ ] [Gf-Patterns](https://github.com/1ndianl33t/Gf-Patterns)
+ 
+ **CSRF**  
+   - [ ] [Blazy](https://github.com/s0md3v/Blazy)
+   - [ ] [Bolt](https://github.com/s0md3v/Bolt) 
+   - [ ] [XSRFProbe](https://github.com/0xInfection/XSRFProbe)
+   
+**XSS**   
+   - [ ] [xsscrapy](https://github.com/DanMcInerney/xsscrapy)
+   - [ ] [XSStrike](https://github.com/s0md3v/XSStrike)
+   - [ ] [XSS Gf-Patterns](https://github.com/1ndianl33t/Gf-Patterns)
+   - [ ] [xss wayback hunt](https://web.archive.org/web/*/google.com/*)
+   
+**Command Injection**   
+   - [ ] [commix](https://github.com/commixproject/commix)
+   - [ ] [open redirection + gf pattern](/ "")
+   
+   
+   - [ ] [Open-Redirection-Scanner](https://github.com/KendoClaw1/Open-Redirection-Scanner)
+   - [ ] [ORtester](https://github.com/Leonmugen/ORtester)
+   - [ ] [open redirection + gf pattern](/ "")
+   
