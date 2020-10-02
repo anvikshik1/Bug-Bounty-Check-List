@@ -15,8 +15,6 @@ _Content Discovery_
        
      - Acquisition
        - [ ] [crunchbase.com](https://www.crunchbase.com/search/acquisition)
-       - [ ] [facebook.com@2020]( / "Trendmark google")
-       - [ ] [github.com@2020](""/ )
        - [ ] [viewdns.info](https://viewdns.info/reversewhois/ " First do whois, take the register email then perform reverse whois 'muni-adm@ics.muni.cz'")
        - [ ] [whoisxmlapi.com](https://tools.whoisxmlapi.com/reverse-whois-search)
        
@@ -61,6 +59,9 @@ _WayBack Enumaretion_
    - [ ] [archive.org](https://archive.org/web/)
    - [ ] [waybackunifier](https://github.com/mhmdiaa/waybackunifier)
    - [ ] [parameth](https://github.com/maK-/parameth)
+   - [ ] [waybackSqliScanner](https://github.com/ghostlulzhacks/waybackSqliScanner)
+   - [ ] [gau](https://github.com/lc/gau)
+   - [ ] [Arjun](https://github.com/s0md3v/Arjun)
    
 _Supports_   
    - [ ] [gf](https://github.com/tomnomnom/gf)
@@ -80,10 +81,18 @@ _Subdomain Takeover_
    - [ ] [subzy](https://github.com/LukaSikic/subzy)
    - [ ] [HostileSubBruteforcer](https://github.com/nahamsec/HostileSubBruteforcer)
    
-__  
-   - [ ] []()
-   - [ ] []()
-   - [ ] []()
+_Fuzzing_  
+   - [ ] [ffuf](https://github.com/ffuf/ffuf)
+   - [ ] [wfuzz](https://github.com/xmendez/wfuzz)
+   - [ ] [gobuster](https://github.com/OJ/gobuster)
+   - [ ] [dirsearch](https://github.com/maurosoria/dirsearch)
+   
+_Port Scan_   
+   - [ ] [nmap](https://github.com/nmap/nmap)
+   - [ ] [masscan](https://github.com/robertdavidgraham/masscan)
+   - [ ] [naabu](https://github.com/projectdiscovery/naabu)
+   
+   
    
 _Web vulnerability scanner tools_   
    - [ ] []()
