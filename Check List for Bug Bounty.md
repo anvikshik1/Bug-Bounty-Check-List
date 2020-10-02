@@ -55,5 +55,38 @@ _DNS Enumeration_
    - [ ] [dnsrecon](https://github.com/darkoperator/dnsrecon)
    - [ ] [dnsgen](https://github.com/ProjectAnte/dnsgen "Automate dnsgen+masscan")
    
+_WayBack Enumaretion_  
+   - [ ] [Paramspider](https://github.com/devanshbatham/ParamSpider)
+   - [ ] [waybachurl](https://github.com/tomnomnom/waybackurls)
+   - [ ] [archive.org](https://archive.org/web/)
+   - [ ] [waybackunifier](https://github.com/mhmdiaa/waybackunifier)
+   - [ ] [parameth](https://github.com/maK-/parameth)
+   
+_Supports_   
+   - [ ] [gf](https://github.com/tomnomnom/gf)
+   - [ ] [httprobe](https://github.com/tomnomnom/httprobe)
+   - [ ] [nuclei](https://github.com/projectdiscovery/nuclei)
+   - [ ] [shuffledns](https://github.com/projectdiscovery/shuffledns)
+   - [ ] [meg](https://github.com/tomnomnom/meg)
+   - [ ] [tojson](https://github.com/malijs/tojson)
+   - [ ] [Interlace](https://github.com/codingo/Interlace)
+   - [ ] [httpx](https://github.com/projectdiscovery/httpx)
+   
+_Subdomain Takeover_   
+   - [ ] [can-i-take-over-xyz](https://github.com/EdOverflow/can-i-take-over-xyz)
+   - [ ] [SubOver](https://github.com/Ice3man543/SubOver)
+   - [ ] [subjack](https://github.com/haccer/subjack)
+   - [ ] [takeover](https://github.com/m4ll0k/takeover)
+   - [ ] [subzy](https://github.com/LukaSikic/subzy)
+   - [ ] [HostileSubBruteforcer](https://github.com/nahamsec/HostileSubBruteforcer)
+   
+__  
+   - [ ] []()
+   - [ ] []()
+   - [ ] []()
+   
+_Web vulnerability scanner tools_   
+   - [ ] []()
+   
        
        
