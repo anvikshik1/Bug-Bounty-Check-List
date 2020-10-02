@@ -129,6 +129,7 @@ _Github recon_
      
    
 _Web vulnerability scanner tools_   
+ 
  **SSRF**
    - [ ] [nip.io](https://nip.io/)
    - [ ] [burp Collaborator ](https://gist.github.com/Isopach/00515b5f7ef7be230ff76c6092df0137)
@@ -154,7 +155,7 @@ _Web vulnerability scanner tools_
    - [ ] [commix](https://github.com/commixproject/commix)
    - [ ] [open redirection + gf pattern](/ "")
    
-   
+**Open Redirect**   
    - [ ] [Open-Redirection-Scanner](https://github.com/KendoClaw1/Open-Redirection-Scanner)
    - [ ] [ORtester](https://github.com/Leonmugen/ORtester)
    - [ ] [open redirection + gf pattern](/ "")
