@@ -125,7 +125,7 @@ _Github recon_
    - [ ] [truffleHog](https://github.com/dxa4481/truffleHog)
    - [ ] [git-all-secrets](https://github.com/anshumanbh/git-all-secrets)
    - [ ] [gitGraber](https://github.com/hisxo/gitGraber)
-   - [ ] []()
+   - [ ] [gihub manual dorking](https://raw.githubusercontent.com/anvikshik1/Bug-Bounty-Check-List/master/payload/gihub-manual-dork)
      
    
 _Web vulnerability scanner tools_   
