@@ -119,12 +119,12 @@ _Visual recon_
    - [ ] [EyeWitness](https://github.com/FortyNorthSecurity/EyeWitness)
    
 _Github recon_   
-   - [ ] [](https://github.com/michenriksen/gitrob)
-   - [ ] [](https://github.com/tillson/git-hound)
-   - [ ] [](https://github.com/eth0izzle/shhgit)
-   - [ ] [](https://github.com/dxa4481/truffleHog)
-   - [ ] [](https://github.com/anshumanbh/git-all-secrets)
-   - [ ] [](https://github.com/hisxo/gitGraber)
+   - [ ] [gitrob](https://github.com/michenriksen/gitrob)
+   - [ ] [git-hound](https://github.com/tillson/git-hound)
+   - [ ] [shhgit](https://github.com/eth0izzle/shhgit)
+   - [ ] [truffleHog](https://github.com/dxa4481/truffleHog)
+   - [ ] [git-all-secrets](https://github.com/anshumanbh/git-all-secrets)
+   - [ ] [gitGraber](https://github.com/hisxo/gitGraber)
    - [ ] []()
      
    
