@@ -153,10 +153,10 @@ _Web vulnerability scanner tools_
    
 **Command Injection**   
    - [ ] [commix](https://github.com/commixproject/commix)
-   - [ ] [open redirection + gf pattern](/ "")
+   - [ ] [wayback machine+ gf pattern](/ "")
    
 **Open Redirect**   
    - [ ] [Open-Redirection-Scanner](https://github.com/KendoClaw1/Open-Redirection-Scanner)
    - [ ] [ORtester](https://github.com/Leonmugen/ORtester)
-   - [ ] [open redirection + gf pattern](/ "")
+   - [ ] [wayback machine + gf pattern](/ "")
    
