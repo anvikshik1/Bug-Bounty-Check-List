@@ -92,7 +92,41 @@ _Port Scan_
    - [ ] [masscan](https://github.com/robertdavidgraham/masscan)
    - [ ] [naabu](https://github.com/projectdiscovery/naabu)
    
+_WAF Identification_
+
+   - [ ] [wafw00f](https://github.com/EnableSecurity/wafw00f)
+   - [ ] [nmap nse script](https://github.com/nmap/nmap/blob/master/scripts/http-waf-detect.nse)
    
+_Wordlist/Payload_   
+   - [ ] [content Discovery all.txt](https://gist.github.com/jhaddix/b80ea67d85c13206125806f0828f4d10)
+   - [ ] [jhaddix all.txt](https://gist.github.com/jhaddix/f64c97d0863a78454e44c2f7119c2a6a)
+   - [ ] [SecLists](https://github.com/danielmiessler/SecLists)
+   - [ ] [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings)
+   - [ ] [fuzzdb](https://github.com/fuzzdb-project/fuzzdb)
+   - [ ] [many more...](https://github.com/foospidy/payloads)
+   
+_CMS Identification_
+   - [ ] [wappalyzer](https://www.wappalyzer.com/lookup/)
+   - [ ] [netcraft](https://www.netcraft.com/search/?q=google.com)
+   - [ ] [whatweb](https://github.com/urbanadventurer/WhatWeb)
+   - [ ] [retire.js](https://retirejs.github.io/retire.js/)
+   - [ ] [builwith](https://github.com/ecrmnn/builtwith)
+   
+_Visual recon_   
+   - [ ] [aqatone](https://github.com/michenriksen/aquatone)
+   - [ ] [gowitness](https://github.com/sensepost/gowitness)
+   - [ ] [webscreenshot](https://github.com/maaaaz/webscreenshot)
+   - [ ] [EyeWitness](https://github.com/FortyNorthSecurity/EyeWitness)
+   
+_Github recon_   
+   - [ ] [](https://github.com/michenriksen/gitrob)
+   - [ ] [](https://github.com/tillson/git-hound)
+   - [ ] [](https://github.com/eth0izzle/shhgit)
+   - [ ] [](https://github.com/dxa4481/truffleHog)
+   - [ ] [](https://github.com/anshumanbh/git-all-secrets)
+   - [ ] [](https://github.com/hisxo/gitGraber)
+   - [ ] []()
+     
    
 _Web vulnerability scanner tools_   
    - [ ] []()
