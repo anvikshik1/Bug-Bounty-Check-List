@@ -7,10 +7,11 @@ _Content Discovery_
   - [ ] ASN
      - IP Block/Subnet
        - [ ] [bgp.he.net](https://bgp.he.net/country)
+       - [ ] [metabigor](https://github.com/j3ssie/metabigor)
        - [ ] [whois.arin.net](https://whois.arin.net/ui/)
        - [ ] [apps.db.ripe.net](https://apps.db.ripe.net/db-web-ui/query)
        - [ ] [ultratool.com](https://www.ultratools.com/tools/asnInfo)
-       - [ ] [shodan.io](https://www.shodan.io/)
+       - [ ] [shodan.io](https://www.shodan.io/ "Check SSL Cert Names")
        - [ ] [dnsgoodies](http://dnsgoodies.com/)
        
      - Acquisition
