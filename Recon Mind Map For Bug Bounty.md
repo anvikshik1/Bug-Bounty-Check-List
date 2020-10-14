@@ -12,7 +12,7 @@ _Content Discovery_
        - [ ] [apps.db.ripe.net](https://apps.db.ripe.net/db-web-ui/query)
        - [ ] [ultratool.com](https://www.ultratools.com/tools/asnInfo)
        - [ ] [shodan.io](https://www.shodan.io/ "Check SSL Cert Names")
-       - [ ] [dnsgoodies](http://dnsgoodies.com/)
+       - [ ] [dnsgoodies.com](http://dnsgoodies.com/)
        
      - Acquisition
        - [ ] [crunchbase.com](https://www.crunchbase.com/search/acquisition)
