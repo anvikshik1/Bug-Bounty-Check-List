@@ -73,6 +73,9 @@ _Supports_
    - [ ] [tojson](https://github.com/malijs/tojson)
    - [ ] [Interlace](https://github.com/codingo/Interlace)
    - [ ] [httpx](https://github.com/projectdiscovery/httpx)
+   - [ ] [Waybackurl](https://github.com/tomnomnom/waybackurls)
+   - [ ] [S3Scanner](https://github.com/sa7mon/S3Scanner)
+   - [ ] [AWSBucketDump](https://github.com/jordanpotti/AWSBucketDump)
    
 _Subdomain Takeover_   
    - [ ] [can-i-take-over-xyz](https://github.com/EdOverflow/can-i-take-over-xyz)
